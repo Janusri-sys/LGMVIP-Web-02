@@ -1,0 +1,35 @@
+
+.data{
+  margin-top:12em;
+  margin-left: 9em;
+}
+img{
+  border-radius: 7%;
+  width:200px;
+}
+.card{
+  width:650px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem;
+  border-radius: 3%;
+  border: solid 1px orangered;
+  padding: 20px 30px;
+  text-align: center;
+  background-color: black;
+}
+p.text {
+  color: #ff9f1a;
+  text-align: left;
+  font-size: 17px;
+
+}
+.image img {
+  width: 180px;
+  margin: 30px;
+}
+
+.text {
+  margin: 10px;
+}
